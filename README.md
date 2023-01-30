@@ -66,10 +66,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
   ## Links to the Deployed Application 
 
-  * The URL of the deployed application - 
+  * The URL of the deployed application - https://young-bastion-85910.herokuapp.com/notes
 
   * The URL of the GitHub repository - https://github.com/savitamanchanda/Note-Taker
-  
+
 
   * [](./assets%3Aimages/notes-1.png)
   * [](./assets%3Aimages/notes-2.png)
