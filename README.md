@@ -71,5 +71,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
   * The URL of the GitHub repository - https://github.com/savitamanchanda/Note-Taker
 
 
-  * [](./assets%3Aimages/notes-1.png)
-  * [](./assets%3Aimages/notes-2.png)
+  * [screenshot-1](./assets%3Aimages/notes-1.png)
+  * [screenshot-2](./assets%3Aimages/notes-2.png)
